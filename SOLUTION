@@ -1,4 +1,4 @@
-<your secret here>      <<  Change this line. The secret must be placed in the first line
+814c5723c21e7e90a3eae36c8df3c513
 
 
 Kernel System Calls
@@ -8,7 +8,10 @@ The file gives an output of the system data and registered Good Luck
 
 Broken Symlink
 -------------------
-<Your Answer>
+Uber should create a Symlink to the daily backup file
+and move the daily backup file to the backups directory
+by defining an absolute path.
+This is how you can get to the last backup file.
 
 
 
@@ -18,4 +21,7 @@ Binary Numbers
 111 = 7
 100 = 4
 10110 = 22
-2.
+2.The available decimal range of an 8-bit binary number is 0 to 255
+3.The number 100000000 represents a range from 255 to -256
+4.separate the parts into 4-bit and convert each part separately
+Example - 12.3 = 1100.0101
